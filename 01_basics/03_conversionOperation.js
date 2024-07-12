@@ -45,8 +45,9 @@ let str3 = str1 + str2
 // console.log(str3);
 
 // console.log("1" + 2);
-// console.log(1 + "2");
-// console.log(1 + 2 + "2");
+// console.log(1 + "2"); 
+// console.log("1" + 2 + 2); when u place a this symbol on 1st number it adds all the numbers as strings 
+// console.log(1 + 2 + "2");  when u place a this symbol on last number it adds all the numbers as gives the sum 
 
 // console.log((3 + 4)*5 % 3);
 
