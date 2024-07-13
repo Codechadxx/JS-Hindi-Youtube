@@ -39,7 +39,6 @@ console.log(typeof anotherId);
 // Stack (Primitive) , Heap (Non-primitive)
 
 let myYoutubename = "rachitdotcom"
-
 let anothername = myYoutubename
 anothername = "chaiaurcode"
 
@@ -52,7 +51,6 @@ let userOne = {
 }
 
 let userTwo = userOne
-
 userTwo.email = "rachitdotcom"
 
 console.log(userOne.email);
