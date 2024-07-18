@@ -9,11 +9,11 @@ const myArr2 = new Array(1, 2, 3, 4)
 // Array methods
 
 // myArr.push(6) -> adds the value in array 
-// myArr.pop();
+// myArr.pop(); -> The pop() method in JavaScript is used to remove the last element from an array and return that element.
 // console.log(myArr);
 
-// myArr.unshift(9)
-// myArr.shift()
+// myArr.unshift(9) -> The unshift() method in JavaScript is used to add one or more elements to the beginning of an array and returns the new length of the array
+// myArr.shift() -> The shift() method in JavaScript is used to remove the first element from an array and return that element
 // console.log(myArr);
 
 // console.log(myArr.includes(9));
